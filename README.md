@@ -1,10 +1,10 @@
-🌱 Sign‑Up Form Project
+🌱 #Sign‑Up Form Project
 A simple practice sign‑up form built with HTML, CSS, and basic validation attributes.
 The design includes a background image, a logo styled with the Norse font, and a two‑column layout for user input.
 
 ------------------------------------------------------------------------
 
-✨ Features
+✨ #Features
 - Two‑column layout using Flexbox for clean structure.
 - Custom Norse font imported via CDN for branding.
 - Form validation:
@@ -17,7 +17,7 @@ The design includes a background image, a logo styled with the Norse font, and a
 
 ------------------------------------------------------------------------
 
-🚀 Getting Started
+🚀 #Getting Started
 - Clone or download the repository.
 - Place grass.jpg and Logo.png in the same directory as index.html.
 - Open index.html in your browser.
@@ -25,7 +25,7 @@ The design includes a background image, a logo styled with the Norse font, and a
 
 ------------------------------------------------------------------------
 
-🖱️ Controls
+🖱️ #Controls
 - First Name / Last Name → Enter your personal details.
 - Email → Must be in valid email format.
 - Phone Number → Accepts numeric input.
@@ -34,14 +34,14 @@ The design includes a background image, a logo styled with the Norse font, and a
 
 ------------------------------------------------------------------------
 
-🛠️ Technologies Used
+🛠️ #Technologies Used
 - HTML5 for structure
 - CSS for styling and layout
 - Validation attributes (minlength, pattern, type) for basic checks
 
 ------------------------------------------------------------------------
 
-📌 Future Improvements
+📌 #Future Improvements
 - Add JavaScript to ensure password and confirm password match.
 - Improve phone number validation with regex pattern.
 - Make layout responsive for mobile devices.
