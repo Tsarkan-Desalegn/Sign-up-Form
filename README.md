@@ -4,7 +4,6 @@ The design includes a background image, a logo styled with the Norse font, and a
 
 ------------------------------------------------------------------------
 
-
 ✨ Features
 - Two‑column layout using Flexbox for clean structure.
 - Custom Norse font imported via CDN for branding.
