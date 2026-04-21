@@ -1,4 +1,5 @@
 🌱 #Sign‑Up Form Project
+
 A simple practice sign‑up form built with HTML, CSS, and basic validation attributes.
 The design includes a background image, a logo styled with the Norse font, and a two‑column layout for user input.
 
